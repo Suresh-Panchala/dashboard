@@ -1,0 +1,11 @@
+.cards-text{
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(255, 89, 0);
+}
+.cards{
+    padding: 15px;
+    border:1px solid black;
+    border-radius: 20px;
+    margin: 10px;
+}
